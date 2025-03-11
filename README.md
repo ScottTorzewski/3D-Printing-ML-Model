@@ -1,1 +1,1 @@
-# 3D-Printing-ML-Model
+# Using Regression to Approximate 3D Printing Parameters
