@@ -20,7 +20,7 @@ By predicting these metrics, the model aids in refining printer parameters, redu
 
 ## 🔬 Key Observations & Conclusions
 - **Roughness** had the strongest correlation with **layer height** and **nozzle temperature**. Smaller layer heights and lower nozzle temperatures improved surface smoothness.
-- Final models improved **error scores (MAE ↓ 25%, RMSE ↓ 30%)** and **prediction accuracy (R² ↓ 7%)** over baseline linear regression, demonstrating the effectiveness of advanced regression techniques.
+- Final models improved **error scores (MAE ↓ 25%, RMSE ↓ 30%)** and **prediction accuracy (R² ↑ 7%)** over baseline linear regression, demonstrating the effectiveness of advanced regression techniques.
 
 ## 🎯 Project Significance
 This project provides a data-driven approach to optimizing 3D printing parameters, enabling:
