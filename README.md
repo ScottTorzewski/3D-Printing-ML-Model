@@ -39,7 +39,7 @@ Ensure you have the following installed:
 ### 📥 Installation Steps
 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/ScottTorzewski/3D-Printing-ML-Model.git
+git clone https://github.com/ScottTorzewski/3D-Printing-ML-Project.git
 ```
 2️⃣ **Navigate to the Project Directory**
 ```bash
